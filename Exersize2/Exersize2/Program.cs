@@ -8,21 +8,24 @@ namespace YuliaExersize
         {
 
 
-            for (int i = 1, i <= 50, i++)
+            for (int i = 1; i <= 50; i++)
             {
-                int a = i / 3;
-                int b = i / 5;
-                if ((Convert.ToDouble(i / 3) = i / 3) & (Convert.ToDouble(i / 5) != i / 5))
-                
+                double a =  i % 3.0;
+                double b = i % 5.0;
+                if ((a == 0) && (b != 0))
+                    
                 {
+                    Console.WriteLine("{0} is devisible by 3 but not devisible by 5", i);
                     Console.WriteLine("Tutti");
                 }
-                else if ((Convert.ToDouble(i / 5) = i / 5) & (Convert.ToDouble(i / 3) != i / 3))
+                else if ((b == 0) && (a != 0))
                 {
+                    Console.WriteLine("{0} is devisible by 5 but not devisible by 3", i);
                     Console.WriteLine("Frutti");
                 }
-                else if ((Convert.ToDouble(i / 3) = i / 3) & (Convert.ToDouble(i / 5) = i / 5))
+                else if ((a == 0) && (b == 0))
                 {
+                    Console.WriteLine("{0} is devisible by 3 and is devisible by 5", i);
                     Console.WriteLine("Tutti-Frutti");
                 }
             }
