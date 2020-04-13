@@ -17,15 +17,15 @@ namespace Exersize3
 
             double d = Devision(a, b);
             Console.Write("Result of devision by {0} and {1} is {2}", a, b, d);
-            Console.WriteLine("\nn");
+            Console.WriteLine("\n\n");
 
             double s = Sum(a, b);
 
             Console.Write("Result of sum of {0} and {1} is {2}", a, b, s);
-            Console.WriteLine("\nn");
+            Console.WriteLine("\n\n");
             double m = Multiplication(a, b);
             Console.Write("Result of multiplication of {0} and {1} is {2}", a, b, m);
-            Console.WriteLine("\nn");
+            Console.WriteLine("\n\n");
 
             static double Devision(double a, double b)
             {
