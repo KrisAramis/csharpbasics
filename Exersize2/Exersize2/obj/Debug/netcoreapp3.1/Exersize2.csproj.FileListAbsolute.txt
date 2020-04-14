@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.exe
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.deps.json
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.runtimeconfig.json
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.runtimeconfig.dev.json
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.dll
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\bin\Debug\netcoreapp3.1\Exersize2.pdb
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.AssemblyInfo.cs
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.dll
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.pdb
+C:\Users\krist\source\repos\csharpbasics\Exersize2\Exersize2\obj\Debug\netcoreapp3.1\Exersize2.genruntimeconfig.cache
