@@ -27,16 +27,16 @@ namespace Exersize3
             Console.Write("Result of multiplication of {0} and {1} is {2}", a, b, m);
             Console.WriteLine("\n\n");
 
-            static double Devision(double a, double b)
+             double Devision(double a, double b)
             {
                 return a/b;
             }
 
-            static double Sum(double a, double b)
+             double Sum(double a, double b)
             {
                 return a +b;
             }
-            static double Multiplication(double a, double b)
+             double Multiplication(double a, double b)
             {
                 return a * b;
             }

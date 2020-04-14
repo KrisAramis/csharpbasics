@@ -13,7 +13,6 @@ namespace YuliaExersize
                 double a =  i % 3.0;
                 double b = i % 5.0;
                 if ((a == 0) && (b != 0))
-                    
                 {
                     Console.WriteLine("{0} is devisible by 3 but not devisible by 5", i);
                     Console.WriteLine("Tutti");
