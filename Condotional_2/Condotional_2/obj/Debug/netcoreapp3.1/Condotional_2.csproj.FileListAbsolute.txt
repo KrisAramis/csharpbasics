@@ -1,0 +1,13 @@
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.exe
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.deps.json
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.runtimeconfig.json
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.runtimeconfig.dev.json
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.dll
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\bin\Debug\netcoreapp3.1\Condotional_2.pdb
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.csprojAssemblyReference.cache
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.AssemblyInfoInputs.cache
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.AssemblyInfo.cs
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.dll
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.pdb
+C:\Users\krist\source\repos\csharpbasics\Condotional_2\Condotional_2\obj\Debug\netcoreapp3.1\Condotional_2.genruntimeconfig.cache
